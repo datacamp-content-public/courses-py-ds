@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Por que Python?'
+description: '"Professor, qual a melhor linguagem de programação?"...Existe resposta para tal questionamento? Por que mais uma linguagem de programação? Por que Python?'
 ---
 
 ## Example coding exercise
@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: c4ac60420e
+xp: 50
+```
+
+`@projector_key`
+93f7876476f6a238563ee0b4ffd83fcf
